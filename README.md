@@ -1,5 +1,5 @@
 # 💫 Hello there, I'm Robin!
-💻 Software engineer (focus on backend) <br>🧠 2+ years of professional experience with PHP <br>📖 Currently expanding my knowledge with the laravel framework
+💻 Software engineer (focus on backend) <br>🧠 2+ years of professional experience with PHP <br>📖 Currently expanding my knowledge with GO
 
 
 ## 🌐 Socials:
